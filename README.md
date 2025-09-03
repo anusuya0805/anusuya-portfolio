@@ -10,11 +10,12 @@ I love working with **Python, SQL, Tableau, and Machine Learning** to solve real
 - SQL & Databases  
 
 ## 🔹 Projects
-- [GemAI – Jewellery Sales Forecasting](https://github.com/anusya0805/gemai-project)  
+- [Jewellery Sales Forecasting](https://github.com/anusya0805/gemai-project)  
 - Sales Dashboard in Excel  
 - Data Visualization Mini Project  
 
 ## 🔹 Connect with me
-- LinkedIn: [Your Profile Link]  
-- Email: your-email@example.com  
-- Portfolio Website: [GitHub Pages Link]
+- LinkedIn: https://www.linkedin.com/in/anusuya-s-1aa138295 
+- Email: anusuya08059@gmail.com 
+- Portfolio Website: https://github.com/anusya0805/anusuya-portfolio.git
+
